@@ -1,3 +1,5 @@
+ODDS|
+
 - 👋 Hi, I’m @apirak
 - 👀 I’m interested in User Experience
 - 🌱 I’m currently learning about System Thinking
