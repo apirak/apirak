@@ -1,4 +1,4 @@
-ODDS|
+UX Academy, Dealdroid
 
 - 👋 Hi, I’m @apirak
 - 👀 I’m interested in User Experience
