@@ -23,6 +23,10 @@ I've always believed that great work happens because everyone helps out, not jus
 
 -----
 
+![Apirak's GitHub stats](https://github-readme-stats.vercel.app/api?username=apirak&show_icons=true&theme=dracula)
+
+-----
+
 ### Don't be shy, say hi\!
 
 Let's create something fun together. 😊
