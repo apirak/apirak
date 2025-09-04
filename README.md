@@ -1,36 +1,16 @@
+### 👋 Hello, I'm Apirak Panatkool (Bank)
+---
+I'm a UX Lead and co-founder of UX Academy Thailand and UX Thailand, with a passion for building user-centric products. My journey combines UX design, Design Strategy, and a development perspective to help teams create impactful solutions. I'm a big believer in a collaborative Agile approach between designers and developers.
 
-### Hiya\! 😊 I'm Apirak Panatkool (Bank).
+**My Superpowers:** 💡
+- **UX/UI Design:** Crafting intuitive and delightful user experiences.
+- **Design Strategy:** Turning user insights into actionable design decisions.
+- **Full Stack Development:** From front-end design with Figma and JavaScript to back-end logic with Ruby on Rails, I bridge the gap between design and code.
+- **Facilitation:** Leading workshops that spark creativity and collaboration.
 
-Just a UX Lead trying my best to make the world a little bit better, one user experience at a time\! 💖 I'm also the founder of **DealDroid**, which is like a little AI friend I'm building.
+**Open Source projects I'm Proud Of:**
+- **Sushi Design System:** Developed backend components for the Stock Exchange of Thailand. It's available on GitHub in HTML and React. **[Github](https://github.com/sushiui/sushi)**
+- **Visible Property #2:** The second version of a Figma plugin designed to streamline updates for design system documentation. **[Github](https://github.com/apirak/visible-property-2)**
+- **Visible Property #1:** The initial version of a Figma plugin that simplifies annotation management within designs. **[Github](https://github.com/apirak/visible-property)**
 
-I've always believed that great work happens because everyone helps out, not just the designers\! 🙏
-
------
-
-### A little bit about my journey so far...
-
-  - **Falling in love with user problems:** I love meeting and understanding people's problems to find the right solution for them\! 🔎
-  - **Helping teams find their UX superpowers:** I have so much fun being a coach and facilitator, helping teams discover their own design potential\! 🚀
-  - **Bridging the gap:** I love connecting designers and developers, kind of like a small bridge that makes working together so much smoother\! 🌉
-
------
-
-### My Little Toolbox 🛠️
-
-  - **Playful Design:** Figma, Sketch ✨
-  - **Thoughtful Methods:** User Research, Design Thinking, UX Strategy
-  - **Just a bit of Code:** Javascript, Ruby on Rails (I'm always learning more\!) 🤓
-
------
-
-### Don't be shy, say hi\!
-
-Let's create something fun together. 😊
-
-  - **My corner of the internet:** [apirak.com](https://apirak.com)
-  - **Let's connect:** [linkedin.com/in/apirak](https://www.linkedin.com/in/apirak)
-  - **Let's be friends on Facebook:** [fb.com/apirak](https://fb.com/apirak)
-
------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apirak&layout=compact)
+**Let's Connect:** [apirak.com](https://apirak.com/) | [LinkedIn](https://www.linkedin.com/in/apirakpanatkool)
